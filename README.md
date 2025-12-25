@@ -48,6 +48,7 @@ You can use these codes to draw the Figures in the manuscript.
 ## Acknowledgement
 This repo is constructed based on the following repos:
 - https://github.com/thuml/Time-Series-Library
+
 Thanks to the following code for the assistance it provided in this paper.
 - https://github.com/terencetaothucb/Early-Battery-Degradation-Prediction-via-Chemical-Process-Inference
 - https://zenodo.org/records/15350607
